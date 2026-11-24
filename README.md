@@ -22,6 +22,28 @@
 * **Project Presentation Link:** `https://docs.google.com/presentation/d/1CjCoF6cNSWOWWH0upkRualUhTqFJuoOO/edit?usp=drive_link&ouid=108531411860157531016&rtpof=true&sd=true`
 * **Dataset Access Link:** `https://drive.google.com/file/d/1kI6vKBja6ZG0Zg5P3u50vUcIDoKgbN_Z/view?usp=drive_link`
 * **Dataset Details Link:** `https://drive.google.com/file/d/1Eo4W1Z2QZAVixAfbQ1euY3w5778C3fiP/view?usp=drive_link`
+## Project Links & Resources
+
+### Interactive Notebooks (Google Colab)
+
+* **Experiment 1 (Without Time Features):** 
+
+**Colab URL:** https://colab.research.google.com/drive/1Bja6H59hTFI_U40NF7oW_2PdVG9ZvWH0?usp=sharing
+
+* **Experiment 2 (With Time Features Included):**
+
+**Colab URL:** https://colab.research.google.com/drive/1YsT1qiHPljBTR1_iQXjydLzY9lB5VX3X?usp=sharing
+
+### Documentation & Data
+
+**- Project Presentation Link:** 
+https://docs.google.com/presentation/d/1CjCoF6cNSWOWWH0upkRualUhTqFJuoOO/edit?usp=drive_link&ouid=108531411860157531016&rtpof=true&sd=true
+
+**- Dataset Link:**
+https://drive.google.com/file/d/1kI6vKBja6ZG0Zg5P3u50vUcIDoKgbN_Z/view?usp=drive_link
+
+**- Dataset Details Link:**
+https://drive.google.com/file/d/1Eo4W1Z2QZAVixAfbQ1euY3w5778C3fiP/view?usp=drive_link
 
 ---
 
