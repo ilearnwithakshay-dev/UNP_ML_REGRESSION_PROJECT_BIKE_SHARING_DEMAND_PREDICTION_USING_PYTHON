@@ -14,8 +14,8 @@
 
 * **Experiment 1 (Without Time Features):**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1800h101aT2DNNdCSzoav9X71MxkTdaGV/view?usp=drive_link)
   *Colab URL:* `https://drive.google.com/file/d/1800h101aT2DNNdCSzoav9X71MxkTdaGV/view?usp=drive_link`
-* **Experiment 2 (With Time Features Included):**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1bBhJHLVptSAxCX-_5DucOoM1o9px_uNq/view?usp=drive_link)
-  *Colab URL:* `https://drive.google.com/file/d/1bBhJHLVptSAxCX-_5DucOoM1o9px_uNq/view?usp=drive_link`
+* **Experiment 2 (With Time Features Included):**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1bBhJHLVptSAxCX-_5DucOoM1o9px_uNq/view?usp=sharing)
+  *Colab URL:* `https://drive.google.com/file/d/1bBhJHLVptSAxCX-_5DucOoM1o9px_uNq/view?usp=sharing`
 
 ### Project Resources & Drive Links
 
