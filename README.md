@@ -12,8 +12,8 @@
 
 ### Interactive Notebooks (Google Colab)
 
-* **Experiment 1 (Without Time Features):**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1800h101aT2DNNdCSzoav9X71MxkTdaGV/view?usp=drive_link)
-  *Colab URL:* `https://drive.google.com/file/d/1800h101aT2DNNdCSzoav9X71MxkTdaGV/view?usp=drive_link`
+* **Experiment 1 (Without Time Features):**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bja6H59hTFI_U40NF7oW_2PdVG9ZvWH0?usp=sharing)
+  *Colab URL:* `https://colab.research.google.com/drive/1Bja6H59hTFI_U40NF7oW_2PdVG9ZvWH0?usp=sharing`
 * **Experiment 2 (With Time Features Included):**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YsT1qiHPljBTR1_iQXjydLzY9lB5VX3X?usp=sharing)
   *Colab URL:* `https://colab.research.google.com/drive/1YsT1qiHPljBTR1_iQXjydLzY9lB5VX3X?usp=sharing`
 
